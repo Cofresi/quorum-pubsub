@@ -1,0 +1,15 @@
+{
+  "name": "quorum-pubsub",
+  "version": "0.0.1",
+  "description": "Message propagation module for dapi quorums",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cofresi",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs-api": "^20.0.1",
+    "orbit-db-pubsub": "^0.5.3"
+  }
+}
